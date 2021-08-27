@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Saha</h1>
-<h3 align="center">An undergraduate finding himself a place in full stack development.</h3>
+<h3 align="center">An undergrad student finding himself a place in full stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikets349&label=Profile%20views&color=0e75b6&style=flat" alt="anikets349" /> </p>
 
