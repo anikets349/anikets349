@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aniketsaha349" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anikets349" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aniket-saha-18268b19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-saha-18268b19a" height="30" width="40" /></a>
-<a href="https://fb.com/100008946914164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008946914164" height="30" width="40" /></a>
-<a href="https://instagram.com/anikets349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anikets349" height="30" width="40" /></a>
+<a href = "https://www.linkedin.com/in/aniket-saha-18268b19a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/aniketsaha349"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/anikets349/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100008946914164"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
