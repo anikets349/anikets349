@@ -1,5 +1,3 @@
-<a href="#"><img style="display: block; margin: 0 auto" width="50%" height="auto" src="https://image.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniket!</h1>
 <h3 align="center">An undergrad student finding himself a place in full stack web development.</h3>
 
