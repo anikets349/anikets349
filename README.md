@@ -1,13 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniket!</h1>
-<h3 align="center">An undergrad student finding himself a place in full stack web development.</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniket!</h1>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and React**
-
-- 💬 Ask me about **Java, HTML, CSS, JavaScript**
-
-- 📫 How to reach me? At **anikets349@gmail.com**
-
-- ⚡ A Fun fact : **I like teaching.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
