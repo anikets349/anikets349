@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com//github-readme-stats"><img alt="Aniket Saha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anikets349&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com//github-readme-stats"><img alt="Aniket Saha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anikets349&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
 
